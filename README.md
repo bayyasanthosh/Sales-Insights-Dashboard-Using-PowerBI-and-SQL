@@ -165,7 +165,6 @@ Built interactive dashboards for:
 * Revenue dropped significantly during June 2020.
 * Profit margins were lowest during April 2020.
 
-
 ## Project Files
 
 * Sales_Insights.pbix
